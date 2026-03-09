@@ -4,7 +4,7 @@ Welcome to my Machine Learning Portfolio, a collection of projects demonstrating
 
 These projects were developed as part of a Data Science bootcamp and showcase my ability to clean data, perform exploratory analysis, build predictive models, evaluate performance, and communicate insights through visualizations and reports.
 
-Portfolio Overview
+### Portfolio Overview
 
 This repository contains five end-to-end machine learning projects, covering supervised learning, unsupervised learning, neural networks, and natural language processing.
 
