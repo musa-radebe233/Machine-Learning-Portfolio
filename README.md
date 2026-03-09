@@ -37,7 +37,7 @@ Model evaluation (RMSE, residual plots)
 
 Data visualization
 
-**Tools**
+**Tools**  
 Python Pandas Matplotlib Scikit-learn
 
 2️⃣ Machine Learning – Customer Churn Prediction
@@ -54,7 +54,7 @@ Hyperparameter tuning
 
 Confusion matrix, precision & recall
 
-**Tools**
+**Tools**  
 Python Pandas Scikit-learn Seaborn
 
 3️⃣ Unsupervised Learning – Crime Data Clustering
@@ -71,7 +71,7 @@ Clustering analysis
 
 Data visualization
 
-**Tools**
+**Tools**  
 Python Scikit-learn Matplotlib
 
 4️⃣ Neural Networks – AI Slogan Generator
@@ -88,7 +88,7 @@ Text generation
 
 Model evaluation
 
-**Tools**
+**Tools**  
 Python PyTorch / TensorFlow NLP
 
 5️⃣ Natural Language Processing – Sentiment Analysis
@@ -105,10 +105,10 @@ Sentiment analysis
 
 spaCy & TextBlob
 
-**Tools**
+**Tools**  
 Python spaCy TextBlob Pandas
 
-**Technologies Used to complete the entire project**
+**Technologies Used to complete the projects**
 
 Python
 
