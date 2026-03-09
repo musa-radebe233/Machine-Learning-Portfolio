@@ -22,12 +22,12 @@ Visualization & interpretation
 
 Insights and recommendations
 
-Projects
+### Projects  
 1️⃣ Linear Regression – Housing Price Prediction
 
 Predict housing prices using multiple linear regression based on property characteristics such as living area and garage size.
 
-Key Skills
+**Key Skills**
 
 Regression modelling
 
@@ -37,14 +37,14 @@ Model evaluation (RMSE, residual plots)
 
 Data visualization
 
-Tools
+**Tools**
 Python Pandas Matplotlib Scikit-learn
 
 2️⃣ Machine Learning – Customer Churn Prediction
 
 Predict telecom customer churn using classification models such as Logistic Regression and Random Forest.
 
-Key Skills
+**Key Skills**
 
 Feature engineering
 
@@ -54,14 +54,14 @@ Hyperparameter tuning
 
 Confusion matrix, precision & recall
 
-Tools
+**Tools**
 Python Pandas Scikit-learn Seaborn
 
 3️⃣ Unsupervised Learning – Crime Data Clustering
 
 Apply Principal Component Analysis (PCA) and clustering techniques to analyze crime patterns across U.S. states using the US Arrests dataset.
 
-Key Skills
+**Key Skills**
 
 Dimensionality reduction
 
@@ -71,14 +71,14 @@ Clustering analysis
 
 Data visualization
 
-Tools
+**Tools**
 Python Scikit-learn Matplotlib
 
 4️⃣ Neural Networks – AI Slogan Generator
 
 Build an LSTM neural network capable of generating business slogans and predicting the industry based on text input.
 
-Key Skills
+**Key Skills**
 
 Deep learning
 
@@ -88,14 +88,14 @@ Text generation
 
 Model evaluation
 
-Tools
+**Tools**
 Python PyTorch / TensorFlow NLP
 
 5️⃣ Natural Language Processing – Sentiment Analysis
 
 Develop a sentiment analysis system that classifies product reviews as positive, negative, or neutral using NLP techniques.
 
-Key Skills
+**Key Skills**
 
 Natural Language Processing
 
@@ -105,10 +105,10 @@ Sentiment analysis
 
 spaCy & TextBlob
 
-Tools
+**Tools**
 Python spaCy TextBlob Pandas
 
-Technologies Used
+**Technologies Used to complete the entire project**
 
 Python
 
